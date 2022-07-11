@@ -1,0 +1,40 @@
+body{background-color: #cbdfdf;}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    max-width: 325px;
+    width: auto;
+    justify-content: center;
+    min-height: 480px;
+    height: auto;
+    border-radius: 20px;
+    margin: 60px auto;
+    box-shadow: 3px 10px 40px 1px #94a6a6;
+}
+.img1
+{
+    max-width: 280px;
+    width: auto;
+    border-radius: 14px;
+}
+.details
+{
+    max-width: 280px;
+    font-family: 'Outfit', sans-serif;
+}
+.details #mainhead
+{
+    font-weight: 700;
+    font-size: 1.4rem;
+    text-align: center;
+}
+.details #para
+{
+    font-size: 15px;
+    text-align: center;
+    margin: 8px;
+    font-weight: lighter;
+}
