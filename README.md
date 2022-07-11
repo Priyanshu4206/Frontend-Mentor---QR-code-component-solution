@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Frontend Mentor - QR code component solution]()
+- Live Site URL: [Frontend Mentor - QR code component solution](https://62cc1e71cd4d760670f078d3--qr-code-component4206.netlify.app/)
 
 ### Built with
 
@@ -46,5 +46,5 @@ While working with images properties and adjusting the width and height properti
 This time I even leaned how to add shadow to a div box and several tweaks we can do to it.
 ## Author
 
-- Website - [Frontend Mentor | QR code component solution]()
+- Website - [Frontend Mentor | QR code component solution](https://62cc1e71cd4d760670f078d3--qr-code-component4206.netlify.app/)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
